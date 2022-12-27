@@ -1,4 +1,4 @@
-# Projeto-inicial-fetch-github-api
+# Desafio Base React
 Projeto realizadocom React para cumprir Desafio do Curso DevQuest.
 <p>
 O objetivo do projeto foi renderizar na tela um parágrafo colorido e com todas as letras maiúsculas usando JS por meio de components.

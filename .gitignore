@@ -8,8 +8,6 @@
 
 # testing
 /coverage
-App.test.js
-setupTests.js
 logo.svg
 
 # production

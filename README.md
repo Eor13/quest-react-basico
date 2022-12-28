@@ -9,7 +9,7 @@ Criou-se também um componente Button com um evento de clique para mostrar uma m
 </p>
 
 <img src ="./src/gif/tela.gif" alt="gif da tela do projeto.">
-
+<a href="https://quest-react-basico.vercel.app/" target="_blank">Clique Aqui para ir direto para página</a>
 
 ## Tecnologias utilizadas
 - React
